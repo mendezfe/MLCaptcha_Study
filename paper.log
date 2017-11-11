@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.8.15)  25 AUG 2017 11:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.8.15)  11 NOV 2017 23:50
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1136,13 +1136,13 @@ Package: footnote 1997/01/28 1.13 Save footnotes around boxes
 \fn@notes=\box49
 \fn@width=\dimen278
 )
-No file paper.aux.
+(./paper.aux)
 \openout1 = `paper.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/nxlmi/m/it on input line 39.
 LaTeX Font Info:    Try loading font information for OML+nxlmi on input line 39
 .
-(/usr/local/texlive/2017/texmf-dist/tex/latex/newtx/omlnxlmi.fd
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/newtx/omlnxlmi.fd
 File: omlnxlmi.fd 2013/11/19 Fontinst v1.933 font definitions for OML/nxlmi.
 )
 LaTeX Font Info:    ... okay on input line 39.
@@ -1263,6 +1263,8 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 39.
 LaTeX Info: Redefining \pageref on input line 39.
 LaTeX Info: Redefining \nameref on input line 39.
+
+(./paper.out) (./paper.out)
 \@outlinefile=\write6
 \openout6 = `paper.out'.
 
@@ -1391,10 +1393,6 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
 (Font)              scaled to size 8.0pt on input line 84.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
 (Font)              scaled to size 8.0pt on input line 84.
-
-
-LaTeX Warning: Reference `TotPages' on page 1 undefined on input line 84.
-
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 8.0pt on input line 84.
 Package microtype Info: Loading generic settings for font family
@@ -1403,7 +1401,7 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 6.2pt on input line 84.
-(/usr/local/texlive/2017/texmf-dist/tex/latex/microtype/mt-msa.cfg
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/microtype/mt-msb.cfg
@@ -1458,23 +1456,9 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [1.1{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
-
-LaTeX Warning: Reference `sec:RelWork' on page 2 undefined on input line 120.
-
-
-LaTeX Warning: Reference `sec:StudyDesign' on page 2 undefined on input line 12
-0.
-
-
-LaTeX Warning: Reference `sec:StudyResults' on page 2 undefined on input line 1
-20.
-
-
-LaTeX Warning: Reference `sec:ImpactImplications' on page 2 undefined on input 
-line 120.
-
 Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
 ine 138.
+
 
 Package natbib Warning: Citation `von2003captcha' on page 2 undefined on input 
 line 140.
@@ -1646,28 +1630,12 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [2.2]
-
-LaTeX Warning: Reference `sec:ImpactImplications' on page 3 undefined on input 
-line 178.
-
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
 (Font)              scaled to size 9.0pt on input line 185.
-
-LaTeX Warning: Reference `services-table' on page 3 undefined on input line 186
-.
-
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/sc' will be
 (Font)              scaled to size 7.0pt on input line 191.
-
-LaTeX Warning: Reference `sec:TestingAndTraining' on page 3 undefined on input 
-line 194.
-
-
-LaTeX Warning: Reference `image-example' on page 3 undefined on input line 198.
-
-
 LaTeX Font Info:    Try loading font information for T1+zi4 on input line 200.
-(/usr/local/texlive/2017/texmf-dist/tex/latex/inconsolata/t1zi4.fd
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/inconsolata/t1zi4.fd
 File: t1zi4.fd 2016/12/29 T1/zi4 (Inconsolata)
 )
 LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
@@ -1683,20 +1651,11 @@ Package microtype Info: Character `textemdash ' is missing
 (microtype)             in font `T1/zi4/m/n/9'.
 (microtype)             Ignoring protrusion settings for this character.
 
-<images/car.jpg, id=61, 100.375pt x 100.375pt>
+<images/car.jpg, id=162, 100.375pt x 100.375pt>
 File: images/car.jpg Graphic file (type jpg)
  <use images/car.jpg>
 Package pdftex.def Info: images/car.jpg used on input line 204.
 (pdftex.def)             Requested size: 120.57375pt x 120.58263pt.
-
-
-LaTeX Warning: Reference `image-example' on page 3 undefined on input line 213.
-
-
-
-LaTeX Warning: Reference `image-example' on page 3 undefined on input line 213.
-
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 273--273
 []|\T1/LinuxLibertineT-TLF/b/n/9 Example Re-sult (Rel-e-vant
@@ -1723,10 +1682,6 @@ Overfull \hbox (3.03163pt too wide) in paragraph at lines 273--273
  []
 
 
-LaTeX Warning: Reference `services-table' on page 3 undefined on input line 276
-.
-
-
 Underfull \hbox (badness 10000) has occurred while \output is active
 
  []
@@ -1737,18 +1692,6 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [3.3 <./images/car.jpg>]
-
-LaTeX Warning: Reference `services-table' on page 4 undefined on input line 299
-.
-
-
-LaTeX Warning: Reference `extracted-thresholds-example' on page 4 undefined on 
-input line 302.
-
-
-LaTeX Warning: Reference `extracted-thresholds-example' on page 4 undefined on 
-input line 304.
-
 (/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
@@ -1764,7 +1707,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
  []
 
-[4.4] <images/captcha-distribution.pdf, id=93, 337.26pt x 255.95625pt>
+[4.4] <images/captcha-distribution.pdf, id=201, 337.26pt x 255.95625pt>
 File: images/captcha-distribution.pdf Graphic file (type pdf)
 
 <use images/captcha-distribution.pdf>
@@ -1774,31 +1717,19 @@ Package pdftex.def Info: images/captcha-distribution.pdf used on input line 362
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/sc' will be
 (Font)              scaled to size 9.0pt on input line 363.
 
-
-LaTeX Warning: Reference `res-captcha-distribution' on page 5 undefined on inpu
-t line 369.
-
-<images/precisions-1.pdf, id=95, 336.25626pt x 254.9525pt>
+<images/precisions-1.pdf, id=204, 336.25626pt x 254.9525pt>
 File: images/precisions-1.pdf Graphic file (type pdf)
 
 <use images/precisions-1.pdf>
 Package pdftex.def Info: images/precisions-1.pdf used on input line 385.
 (pdftex.def)             Requested size: 241.14749pt x 182.84206pt.
 
-<images/recalls-1.pdf, id=96, 335.2525pt x 253.94875pt>
+<images/recalls-1.pdf, id=205, 335.2525pt x 253.94875pt>
 File: images/recalls-1.pdf Graphic file (type pdf)
 
 <use images/recalls-1.pdf>
 Package pdftex.def Info: images/recalls-1.pdf used on input line 392.
 (pdftex.def)             Requested size: 241.14749pt x 182.6647pt.
-
-
-LaTeX Warning: Reference `res-precisions' on page 5 undefined on input line 397
-.
-
-
-LaTeX Warning: Reference `res-recalls' on page 5 undefined on input line 397.
-
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1813,22 +1744,6 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [5.5 <./images/captcha-distribution.pdf> <./images/precisions-1.pdf>]
-
-LaTeX Warning: Reference `res-precisions' on page 6 undefined on input line 399
-.
-
-
-LaTeX Warning: Reference `res-precisions' on page 6 undefined on input line 401
-.
-
-
-LaTeX Warning: Reference `res-recalls' on page 6 undefined on input line 403.
-
-
-LaTeX Warning: Reference `res-broken-captchas' on page 6 undefined on input lin
-e 410.
-
-
 Overfull \hbox (3.93753pt too wide) in paragraph at lines 413--413
 \T1/LinuxLibertineT-TLF/m/n/6 AWAYS?  
  []
@@ -1848,17 +1763,12 @@ Overfull \hbox (3.93753pt too wide) in paragraph at lines 413--413
 \T1/LinuxLibertineT-TLF/m/n/6 AWAYS?  
  []
 
-<images/accuracies-1.pdf, id=139, 335.2525pt x 254.9525pt>
+<images/accuracies-1.pdf, id=250, 335.2525pt x 254.9525pt>
 File: images/accuracies-1.pdf Graphic file (type pdf)
 
 <use images/accuracies-1.pdf>
 Package pdftex.def Info: images/accuracies-1.pdf used on input line 424.
 (pdftex.def)             Requested size: 241.14749pt x 183.38669pt.
-
-
-LaTeX Warning: Reference `res-accuracies' on page 6 undefined on input line 429
-.
-
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 
@@ -1889,17 +1799,12 @@ Overfull \hbox (1.59154pt too wide) in paragraph at lines 452--452
 \T1/LinuxLibertineT-TLF/m/n/6 AWAYS  
  []
 
-<images/broken-1.pdf, id=180, 335.2525pt x 255.95625pt>
+<images/broken-1.pdf, id=292, 335.2525pt x 255.95625pt>
 File: images/broken-1.pdf Graphic file (type pdf)
 
 <use images/broken-1.pdf>
 Package pdftex.def Info: images/broken-1.pdf used on input line 458.
 (pdftex.def)             Requested size: 241.14749pt x 184.10869pt.
-
-
-LaTeX Warning: Reference `res-broken-captchas' on page 7 undefined on input lin
-e 463.
-
 
 Overfull \hbox (1.59154pt too wide) in paragraph at lines 479--479
 \T1/LinuxLibertineT-TLF/m/n/6 AWAYS  
@@ -1948,10 +1853,6 @@ Overfull \hbox (6.12753pt too wide) in paragraph at lines 504--504
  []
 
 
-LaTeX Warning: Reference `sec:ImpactImplications' on page 7 undefined on input 
-line 506.
-
-
 Overfull \hbox (3.10782pt too wide) in paragraph at lines 518--519
 []$\T1/LinuxLibertineT-TLF/m/n/9 (-20) https : / / www . reddit . com / r / Mac
 hineLearning / comments / 356e76 / ask _
@@ -1967,8 +1868,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
  []
 
-[7.7 <./images/broken-1.pdf>]
-No file paper.bbl.
+[7.7 <./images/broken-1.pdf>] (./paper.bbl)
 
 Package natbib Warning: There were undefined citations.
 
@@ -1982,12 +1882,15 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
  []
 
-[8.8
-
-]
+[8.8]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 547.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 547.
- (./paper.aux)
+ (./paper.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 547.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 547.
 
@@ -1997,22 +1900,16 @@ Package rerunfilecheck Warning: File `paper.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `paper.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  A51D438EABF72EE8F3B28A00B25A78EC;4748.
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+(rerunfilecheck)             Before: A51D438EABF72EE8F3B28A00B25A78EC;4748
+(rerunfilecheck)             After:  7FFD4B813C99485874618EEE24C8FE0A;4844.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 547.
  ) 
 Here is how much of TeX's memory you used:
- 31318 strings out of 492995
- 552384 string characters out of 6132704
- 679284 words of memory out of 5000000
- 33700 multiletter control sequences out of 15000+600000
- 185111 words of font info for 316 fonts, out of 8000000 for 9000
+ 31446 strings out of 492995
+ 555003 string characters out of 6132704
+ 684799 words of memory out of 5000000
+ 33767 multiletter control sequences out of 15000+600000
+ 189378 words of font info for 344 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
  62i,17n,94p,1316b,1086s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/libertine/lbtn_ki75ao.enc
@@ -2038,10 +1935,10 @@ I.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/libertine/LinLiber
 tineTI.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/eurosym/feymr
 10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/newtx/txsys.pfb><
 /usr/local/texlive/2017/texmf-dist/fonts/type1/public/newtx/zxlri.pfb>
-Output written on paper.pdf (8 pages, 614496 bytes).
+Output written on paper.pdf (8 pages, 624377 bytes).
 PDF statistics:
- 312 PDF objects out of 1000 (max. 8388607)
- 253 compressed objects within 3 object streams
- 82 named destinations out of 1000 (max. 500000)
- 58935 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 434 PDF objects out of 1000 (max. 8388607)
+ 373 compressed objects within 4 object streams
+ 94 named destinations out of 1000 (max. 500000)
+ 59143 words of extra memory for PDF output out of 61914 (max. 10000000)
 
